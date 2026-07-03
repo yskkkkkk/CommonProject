@@ -27,8 +27,14 @@
 ```
 backend/    Spring Boot + MyBatis REST API
 frontend/   React 웹 클라이언트
+docs/       설계 문서 — API 명세서, 화면정의서
 exec/       DB 스키마(DDL) · 초기 데이터(DML) 등 배포용 자료
 ```
+
+## 실행 · 배포
+
+- DB는 `exec/persona_ddl.sql`(스키마)과 `exec/persona_dml.sql`(초기 데이터)로 구성합니다.
+- 애플리케이션 설정 예시는 `exec/application.properties.png`를 참고하세요.
 
 ## 참고
 
