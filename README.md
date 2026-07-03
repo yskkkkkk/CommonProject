@@ -1,19 +1,24 @@
-# Persona
+# 🌸 SSAFY 공통 프로젝트 🌸
+
+|<img src = "https://avatars0.githubusercontent.com/u/62474560?s=460&v=4" width="150" height="150"/>|<img src = "https://avatars0.githubusercontent.com/u/62474560?s=460&v=4" width="150" height="150"/>|<img src = "https://avatars0.githubusercontent.com/u/62474560?s=460&v=4" width="150" height="150"/>|<img src = "https://ifh.cc/g/fYe0ZT.jpg" width="150" height="150"/>|<img src = "https://ifh.cc/g/fYe0ZT.jpg" width="150" height="150"/>|
+|------|---|-----|-----|-----|
+|<div align ="center"><h4>김민창</h4><div>|<div align ="center"><h4>김다영</h4><div>|<div align ="center"><h4>류대성</h4><div>|<div align ="center"><h4>박종훈</h4><div>|<div align ="center"><h4>최상진</h4><div>|
+|- Back&Front 🌵|- Back 🍀|- Back&Server 🍀|- Front 🍀|- Front 🍀|
+
+## 프로젝트 기간 🌸
+
+* 2022-01-03 ~ 2022-02-18 
+
+## 배포방법 🌻
+
+* 자세한 방법은 포팅 메뉴얼을 확인해주세요
+
+---
+
+## 프로젝트 소개 — Persona
 
 한 계정으로 여러 개의 **캐릭터(페르소나)** 를 만들어, 그 페르소나로 게시·소통하는 SNS 서비스입니다.
 일반적인 SNS와 달리 사용자의 원래 정체성이 아니라 상황·관심사별로 만든 캐릭터 단위로 활동합니다.
-
-> 학기 팀 프로젝트로 진행했습니다 (5인, 2022-01-03 ~ 2022-02-18).
-
-## 역할 분담
-
-| 구분 | 담당 |
-|---|---|
-| 팀원 1 | Back & Front |
-| 팀원 2 | Back |
-| 팀원 3 | **Back & Server** (서버·인프라 구성 단독 담당) |
-| 팀원 4 | Front |
-| 팀원 5 | Front |
 
 ## 기술 스택
 
@@ -81,3 +86,5 @@ exec/       DB 스키마(DDL) · 초기 데이터(DML), 시연 시나리오 등 
 ## 참고
 
 - 애플리케이션 설정(`backend/src/main/resources/application.properties`)에 하드코딩된 자격증명이 남아 있어, 별도의 보안 정리(자격증명 폐기·환경변수 이전)가 필요합니다.
+
+
